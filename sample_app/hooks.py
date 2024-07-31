@@ -6,6 +6,9 @@ app_email = "clifford.dle.arnejo@gmail.com"
 app_license = "mit"
 # required_apps = []
 
+fixtures = [
+    "Client Script"
+]
 # Includes in <head>
 # ------------------
 
